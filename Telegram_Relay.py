@@ -58,7 +58,7 @@ def action(msg):
             relay4.off()
         telegram_bot.sendMessage (chat_id, message)
 
-telegram_bot = telepot.Bot('643771866:AAFn55l5yol1wP-4upvVPq7tlZS9iDoGW_o')
+telegram_bot = telepot.Bot('Enter your API Key')
 print (telegram_bot.getMe())
 
 MessageLoop(telegram_bot, action).run_as_thread()
