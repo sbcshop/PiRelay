@@ -10,7 +10,7 @@ Relay shield for Raspberry Pi
 <li>Raspberry Pi 2, 3, ZERO compatible</li>
 <p></p>
 
-**Steps for PiTalk software installation -**
+**Steps for PiCube software installation -**
 
 1. Open Terminal and download the code by writing: 
    ```
