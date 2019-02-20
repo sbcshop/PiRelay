@@ -1,12 +1,22 @@
 # PiRelay
 Relay shield for Raspberry Pi
 
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/products/PiRelay_d_720_660_1024x1024.png?v=1528267169" width="300">
+
 <li>4 - High quality Relay and loads up to 7A/240VAC</li>
 <li>LED’s for indicating status of each relay</li>
 <li>Standardized shield shape and design</li>
 <li>LED working status indicators for each relay</li>
 <li>Raspberry Pi 2, 3, ZERO compatible</li>
 <p></p>
-Contains:
-<li>Library File - PiRelay.py</li>
-<li>Test Code - Test.py</li>
+
+**Steps for PiTalk software installation -**
+
+1. Open Terminal and download the code by writing: 
+   ```
+   git clone https://github.com/sbcshop/PiRelay.git
+   ```
+   
+2. Your code will be downloaded to '/home/pi' directory. Use 'ls' command to check the list of directories
+
+3. 'Test.py' is example code for PiRelay. Run test file and play with PiRelay
