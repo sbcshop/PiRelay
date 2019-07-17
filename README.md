@@ -3,14 +3,14 @@ Relay shield for Raspberry Pi
 
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/PiRelay_d_720_660_1024x1024.png?v=1528267169" width="300">
 
-<li>4 - High quality Relay and loads up to 7A/240VAC</li>
+<li>4 - High quality Relay and loads up to 7A/240VAC or 10A/125VDC</li>
 <li>LED’s for indicating status of each relay</li>
 <li>Standardized shield shape and design</li>
 <li>LED working status indicators for each relay</li>
-<li>Raspberry Pi 2, 3, ZERO compatible</li>
+<li>Raspberry Pi 4, 3, 2, and ZERO compatible 40-Pin Stacking Header</li>
 <p></p>
 
-**Steps for PiCube software installation -**
+**Steps for PiRelay software installation -**
 
 1. Open Terminal and download the code by writing: 
    ```
