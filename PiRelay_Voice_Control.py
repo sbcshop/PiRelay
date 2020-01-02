@@ -13,9 +13,11 @@ chunk_size = 2048
 
 r = sr.Recognizer()
 
-mic_list = sr.Microphone.list_microphone_names()
-
 device_id = 0
+mic_list = sr.Microphone.list_microphone_names()
+for mic in mic_list:
+    if mic == 'Yeti Stereo Microphone: USB Audio (hw:0,0)':
+        device_id = mic_list.index(mic)
 
 while True:
     with sr.Microphone(device_index = device_id, sample_rate = sample_rate,
