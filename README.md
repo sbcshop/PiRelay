@@ -20,3 +20,9 @@ Relay shield for Raspberry Pi
 2. Your code will be downloaded to '/home/pi' directory. Use 'ls' command to check the list of directories
 
 3. 'Test.py' is example code for PiRelay. Run test file and play with PiRelay
+
+### GPIO 4 Relay Not working Fix
+
+1. Press Start button >> Preferences >> Raspberry Pi Configuration, Then click on Interfaces Tab. and make sure 1-Wire is disabled.
+
+
