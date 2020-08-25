@@ -23,6 +23,9 @@ Relay shield for Raspberry Pi
 
 ### GPIO 4 Relay Not working Fix
 
-1. Press Start button >> Preferences >> Raspberry Pi Configuration, Then click on Interfaces Tab. and make sure 1-Wire is disabled.
+1. Press Start button >> Preferences >> Raspberry Pi Configuration, Then click on Interfaces Tab and make sure 1-Wire is disabled. 
+2. Click on OK button then reboot Raspberry pi.
+
+<img src="https://github.com/sbcshop/PiRelay/blob/master/Images/Relay4Fix.PNG"/>
 
 
