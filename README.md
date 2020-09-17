@@ -1,20 +1,24 @@
 # PiRelay
-Relay shield for Raspberry Pi
+Relay shield for Raspberry Pi to control upto 4 devices/appliances.
 
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/PiRelay_d_720_660_1024x1024.png?v=1528267169" width="300">
 
-<li>4 - High quality Relay and loads up to 7A/240VAC or 10A/125VDC</li>
-<li>LED’s for indicating status of each relay</li>
-<li>Standardized shield shape and design</li>
-<li>LED working status indicators for each relay</li>
-<li>Raspberry Pi 4, 3, 2, and ZERO compatible 40-Pin Stacking Header</li>
+### Specifications 
+
+* 4 - High quality Relay and loads up to 7A/240VAC or 10A/125VDC</li>
+* LED’s for indicating status of each relay</li>
+* Standardized shield shape and design</li>
+* LED working status indicators for each relay</li>
+* Raspberry Pi 4, 3, 2, and ZERO compatible 40-Pin Stacking Header</li>
 <p></p>
 
 **Steps for PiRelay software installation -**
 
-1. Open Terminal and download the code by writing: 
+1. Open Terminal and clone/download the repository by typing below command in terminal: 
+
    ```
    git clone https://github.com/sbcshop/PiRelay.git
+   
    ```
    
 2. Your code will be downloaded to '/home/pi' directory. Use 'ls' command to check the list of directories
