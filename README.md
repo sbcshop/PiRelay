@@ -1,7 +1,7 @@
 # PiRelay
 Relay shield for Raspberry Pi to control upto 4 devices/appliances.
 
-<img src="https://cdn.shopify.com/s/files/1/1217/2104/products/PiRelay_d_720_660_1024x1024.png?v=1528267169" width="300">
+
 
 ### Specifications 
 
