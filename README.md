@@ -12,6 +12,15 @@ Relay shield for Raspberry Pi to control upto 4 devices/appliances.
 * Raspberry Pi 4, 3, 2, and ZERO compatible 40-Pin Stacking Header</li>
 <p></p>
 
+### PinOut
+
+| Relays   | BOARD |    BCM     |
+| -------  | ----- | -----------|
+| Relay 1  |  15   |   GPIO 22  |
+| Relay 2  |  13   |   GPIO 27  |
+| Relay 3  |  11   |   GPIO 17  |
+| Relay 4  |  7    |   GPIO 4   |
+
 **Steps for PiRelay software installation -**
 
 1. Open Terminal and clone/download the repository by typing below command in terminal: 
